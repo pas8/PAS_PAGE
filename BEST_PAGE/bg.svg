@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="/home/p____a____s/Desktop/BEST_PAGE/bg.png"
+   sodipodi:docname="bg.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 430 220"
+   height="220mm"
+   width="430mm">
+  <defs
+     id="defs2">
+    <rect
+       id="rect2818"
+       height="4.8803926"
+       width="131.05357"
+       y="9.2216349"
+       x="16.073402" />
+    <rect
+       id="rect2700"
+       height="20.882282"
+       width="67.459991"
+       y="9.7505074"
+       x="27.037498" />
+    <rect
+       id="rect2622"
+       height="12.212198"
+       width="134.56825"
+       y="2.1413975"
+       x="-13.529121" />
+    <rect
+       id="rect2616"
+       height="10.900717"
+       width="135.54955"
+       y="2.1413975"
+       x="-13.529121" />
+    <rect
+       id="rect2562"
+       height="27.908218"
+       width="129.14523"
+       y="1.6511204"
+       x="-13.63201" />
+    <rect
+       id="rect2556"
+       height="15.282135"
+       width="193.68185"
+       y="1.6511204"
+       x="-13.63201" />
+    <rect
+       id="rect2550"
+       height="14.440064"
+       width="209.32603"
+       y="1.6511204"
+       x="-13.63201" />
+    <rect
+       id="rect2353"
+       height="11.171983"
+       width="47.528973"
+       y="104.7823"
+       x="153.51382" />
+    <rect
+       id="rect2265"
+       height="19.490042"
+       width="65.135506"
+       y="48.312702"
+       x="55.829857" />
+    <rect
+       id="rect1851"
+       height="54.419064"
+       width="132.99977"
+       y="6.7518277"
+       x="-12.466162" />
+    <rect
+       id="rect1769"
+       height="110.37366"
+       width="106.13772"
+       y="-46.857059"
+       x="-64.518303" />
+    <rect
+       id="rect1131"
+       height="31.163012"
+       width="78.71685"
+       y="192.58104"
+       x="3.4019332" />
+    <rect
+       id="rect1125"
+       height="572.08649"
+       width="931.23065"
+       y="-109.18816"
+       x="-121.06066" />
+    <rect
+       id="rect1119"
+       height="809.36084"
+       width="621.66693"
+       y="10.81218"
+       x="-131.13846" />
+    <rect
+       id="rect1113"
+       height="708.40417"
+       width="243.48862"
+       y="327.73141"
+       x="555.66394" />
+    <rect
+       id="rect1107"
+       height="2085.7788"
+       width="527.21918"
+       y="-255.49686"
+       x="261.13922" />
+    <rect
+       id="rect1085"
+       height="37.486172"
+       width="55.840141"
+       y="26.334421"
+       x="105.48367" />
+    <rect
+       id="rect1079"
+       height="47.041035"
+       width="122.47044"
+       y="23.057524"
+       x="150.14072" />
+    <rect
+       id="rect1062"
+       height="119.75179"
+       width="283.78061"
+       y="80.597542"
+       x="115.9238" />
+    <rect
+       id="rect1056"
+       height="56.09116"
+       width="245.54932"
+       y="72.840691"
+       x="96.456848" />
+    <rect
+       id="rect970"
+       height="178.19109"
+       width="188.61421"
+       y="45.498199"
+       x="18.355783" />
+    <rect
+       id="rect869"
+       height="56.788963"
+       width="255.78207"
+       y="10.523552"
+       x="152.33678" />
+    <rect
+       id="rect851"
+       height="45.713558"
+       width="200.11937"
+       y="20.943167"
+       x="101.81779" />
+    <rect
+       id="rect843"
+       height="32.769054"
+       width="110.7995"
+       y="17.690451"
+       x="26.38113" />
+    <rect
+       id="rect837"
+       height="48.562286"
+       width="101.65639"
+       y="19.702734"
+       x="31.911959" />
+    <filter
+       id="filter1457"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB;">
+      <feGaussianBlur
+         id="feGaussianBlur1455"
+         result="fbSourceGraphic"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2953"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="1.01 1.01"
+         id="feGaussianBlur2955" />
+    </filter>
+    <filter
+       id="filter1521"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB;">
+      <feGaussianBlur
+         id="feGaussianBlur1519"
+         result="fbSourceGraphic"
+         stdDeviation="4.1756 4.34563" />
+      <feColorMatrix
+         id="feColorMatrix3009"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="5.83168 6.423"
+         id="feGaussianBlur3011" />
+    </filter>
+    <filter
+       id="filter1663"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1661"
+         result="fbSourceGraphic"
+         stdDeviation="1.58 1.11" />
+      <feColorMatrix
+         id="feColorMatrix1673"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         stdDeviation="1.58 1.11"
+         id="feGaussianBlur1675" />
+      <feColorMatrix
+         id="feColorMatrix1685"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="1.58 1.11"
+         id="feGaussianBlur1687" />
+    </filter>
+    <filter
+       id="filter1667"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1665"
+         result="fbSourceGraphic"
+         stdDeviation="1.58 1.11" />
+      <feColorMatrix
+         id="feColorMatrix1677"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         stdDeviation="1.58 1.11"
+         id="feGaussianBlur1679" />
+      <feColorMatrix
+         id="feColorMatrix1689"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="1.58 1.11"
+         id="feGaussianBlur1691" />
+    </filter>
+    <filter
+       id="filter1671"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1669"
+         result="fbSourceGraphic"
+         stdDeviation="1.58 1.11" />
+      <feColorMatrix
+         id="feColorMatrix1681"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         stdDeviation="1.58 1.11"
+         id="feGaussianBlur1683" />
+      <feColorMatrix
+         id="feColorMatrix1693"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="1.58 1.11"
+         id="feGaussianBlur1695" />
+    </filter>
+    <filter
+       id="filter1759"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1757"
+         result="blur"
+         stdDeviation="2.48 1.21" />
+    </filter>
+    <filter
+       id="filter1847"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1845"
+         result="blur"
+         stdDeviation="1.78 1.41" />
+    </filter>
+    <filter
+       id="filter2261"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2259"
+         result="blur"
+         stdDeviation="0.28 0.31" />
+    </filter>
+    <filter
+       id="filter2341"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB;">
+      <feGaussianBlur
+         id="feGaussianBlur2339"
+         result="fbSourceGraphic"
+         stdDeviation="0.48 0.5" />
+      <feColorMatrix
+         id="feColorMatrix2343"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         stdDeviation="0.5 0.5"
+         id="feGaussianBlur2345" />
+      <feColorMatrix
+         id="feColorMatrix3041"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="0.592386 0.01"
+         id="feGaussianBlur3043" />
+    </filter>
+    <filter
+       id="filter2399"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2397"
+         result="fbSourceGraphic"
+         stdDeviation="0.41 0.41" />
+      <feColorMatrix
+         id="feColorMatrix2425"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="0.01 0.11"
+         id="feGaussianBlur2427" />
+    </filter>
+    <filter
+       id="filter2612"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2610"
+         result="blur"
+         stdDeviation="0.55 0.51" />
+    </filter>
+    <filter
+       id="filter2664"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2662"
+         result="fbSourceGraphic"
+         stdDeviation="0.21 0.21" />
+      <feColorMatrix
+         id="feColorMatrix2694"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="0.11 0.11"
+         id="feGaussianBlur2696" />
+    </filter>
+    <filter
+       id="filter2742"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2740"
+         result="fbSourceGraphic"
+         stdDeviation="0.11 0.11" />
+      <feColorMatrix
+         id="feColorMatrix2812"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="0.41 0.21"
+         id="feGaussianBlur2814" />
+    </filter>
+    <filter
+       id="filter2852"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2850"
+         result="blur"
+         stdDeviation="0.71 0.51" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="743"
+     inkscape:window-width="1366"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g2513"
+     inkscape:document-units="mm"
+     inkscape:cy="442.05856"
+     inkscape:cx="1023.9738"
+     inkscape:zoom="0.47545682"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect837);fill:#deffff;"
+       id="text835"
+       xml:space="preserve" />
+    <text
+       id="text857"
+       y="62.114426"
+       x="221.08806"
+       style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="62.114426"
+         x="221.08806"
+         id="tspan855"
+         sodipodi:role="line" /></text>
+    <text
+       id="text861"
+       y="38.105232"
+       x="229.12286"
+       style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="38.105232"
+         x="229.12286"
+         id="tspan859"
+         sodipodi:role="line" /></text>
+    <text
+       id="text865"
+       y="30.995781"
+       x="184.09805"
+       style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="30.995781"
+         x="184.09805"
+         id="tspan863"
+         sodipodi:role="line" /></text>
+    <text
+       transform="matrix(0.69802931,0,0,0.69802931,190.16461,-52.651448)"
+       style="font-size:25.4px;line-height:0.85;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect970);fill:#ffffff;fill-opacity:1;"
+       id="text968"
+       xml:space="preserve"><tspan
+         x="18.355469"
+         y="63.607445"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85;font-family:DUDE;-inkscape-font-specification:DUDE;fill:#ffffff;fill-opacity:1">
+</tspan></tspan><tspan
+         x="18.355469"
+         y="85.197442"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85;font-family:DUDE;-inkscape-font-specification:DUDE;fill:#ffffff;fill-opacity:1">
+</tspan></tspan></text>
+    <text
+       transform="matrix(1.102206,0,0,1.102206,1185.0345,-1251.963)"
+       style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect1107);"
+       id="text1105"
+       xml:space="preserve"><tspan
+         x="261.13867"
+         y="-229.96909"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="-195.88149"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="-161.79389"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="-127.70629"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела...
+</tspan></tspan><tspan
+         x="261.13867"
+         y="-93.618691"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">
+</tspan></tspan><tspan
+         x="261.13867"
+         y="-59.531091"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ти хочеш щоб тво</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">ї</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">м був, щоб знов л</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">тав я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="-24.727139"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Давай </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">ще один смс
+</tspan></tspan><tspan
+         x="261.13867"
+         y="10.076812"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">На кшталт солодший голос н</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">ж в солов'я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="44.880763"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Але не в тому тв</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">й </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">нтерес
+</tspan></tspan><tspan
+         x="261.13867"
+         y="79.684714"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">А пот</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">м фото де ти крихка
+</tspan></tspan><tspan
+         x="261.13867"
+         y="114.48867"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Або попросиш допомогти
+</tspan></tspan><tspan
+         x="261.13867"
+         y="148.57627"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Це я тебе так довго шукав
+</tspan></tspan><tspan
+         x="261.13867"
+         y="182.66387"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">І </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">сточено ц</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">гостр</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">кути
+</tspan></tspan><tspan
+         x="261.13867"
+         y="217.46783"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Звичайн</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">вс</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">, та ти не така
+</tspan></tspan><tspan
+         x="261.13867"
+         y="252.27178"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Як просто стало згоди д</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">йти
+</tspan></tspan><tspan
+         x="261.13867"
+         y="287.07574"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Вноч</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">не зна</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">є</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">м де себе д</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">ти
+</tspan></tspan><tspan
+         x="261.13867"
+         y="321.87969"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Френк</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Джон</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">, доросл</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">д</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">ти
+</tspan></tspan><tspan
+         x="261.13867"
+         y="356.68365"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Б</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">жу </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">не ч</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">пляю р</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">лл</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і
+</tspan></tspan><tspan
+         x="261.13867"
+         y="391.4876"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Вс</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">прилади мо</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">ї </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">на нул</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і
+</tspan></tspan><tspan
+         x="261.13867"
+         y="426.29156"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">І </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">люди вже не як корабл</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і
+</tspan></tspan><tspan
+         x="261.13867"
+         y="461.09551"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Монмартр ти вона </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Дал</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і
+</tspan></tspan><tspan
+         x="261.13867"
+         y="493.56187"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">
+</tspan></tspan><tspan
+         x="261.13867"
+         y="528.36581"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="562.45339"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Де ти знайдеш такого
+</tspan></tspan><tspan
+         x="261.13867"
+         y="596.54098"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="630.62856"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="664.71615"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Де ти знайдеш такого
+</tspan></tspan><tspan
+         x="261.13867"
+         y="698.80373"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела
+</tspan></tspan><tspan
+         x="261.13867"
+         y="732.89132"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="766.9789"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="801.06649"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="835.15407"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела
+</tspan></tspan><tspan
+         x="261.13867"
+         y="869.24166"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">
+</tspan></tspan><tspan
+         x="261.13867"
+         y="903.32925"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">І </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">якщо хочеш щоб п</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">шов я, хочеш щоб </tspan></tspan><tspan
+         x="261.13867"
+         y="938.1332"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">змовк
+</tspan></tspan><tspan
+         x="261.13867"
+         y="972.22079"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Давай </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">ще один смс
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1007.0247"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Що був найкращим в пар</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">з нас двох
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1041.8287"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Не пив вина, не грав стюардес
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1075.9163"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Що не чекав у спину ножа
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1110.0039"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">З усюди та не в</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">д тебе жах
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1144.8079"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Наплюй на до себе жаль чи н</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1179.6118"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Цей б</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">ль поживе в мен</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">немов у камен</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1214.4158"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">В</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">денськ</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ш</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">лл</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">є</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">, Кл</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">мдт </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Л</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">ндт
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1249.2197"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Не роз</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">б'ють наш триклятий л</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">д
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1284.0237"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Я думав що в</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">днайшов
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1318.8277"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Св</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">й золотий грааль
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1353.6316"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Танули пристраст</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1388.4356"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">В готел</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">в номерах
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1423.2395"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ставало звично так
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1457.3272"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Тепер скажи це Все
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1491.4148"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Що справа не в мен</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1526.2188"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">І </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">ми зайшли за край
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1561.0227"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">В</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">і</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">дпустить - набирай
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1595.8267"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Бо ми загубили рай
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1629.9143"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1664.002"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1698.0896"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Де ти знайдеш такого
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1732.1773"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1766.2649"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Де тепер знайдеш такого
+</tspan></tspan><tspan
+         x="261.13867"
+         y="1800.3526"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="261.13867"
+         y="1855.8082"><tspan
+           dx="0 15.428515 15.974217 10.417969 14.089066 15.081245 14.337112"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="261.13867"
+         y="1889.8959"><tspan
+           dx="0 15.428515 15.974217 10.417969 14.089066 15.081245 14.337112 157.85703 14.585175 14.138672 157.85703 14.585144"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="261.13867"
+         y="1923.9835"><tspan
+           dx="0 15.428515 15.974217 10.417969 14.089066 15.081245 14.337112 157.85703 14.585175 14.138672 157.85703 14.585144"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="261.13867"
+         y="1958.0711"><tspan
+           dx="0 15.428515 15.974217 10.417969 14.089066 15.081245 14.337112 157.85703 14.585175 14.138672 157.85703 14.585144"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела як я
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="261.13867"
+         y="1992.1587"><tspan
+           dx="0 15.428515 15.974217 10.417969 14.089066 15.081245"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK'">Ангела</tspan></tspan></text>
+    <text
+       style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect1113);"
+       id="text1111"
+       xml:space="preserve" />
+    <text
+       style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect1131);"
+       id="text1129"
+       xml:space="preserve" />
+    <text
+       id="text1795"
+       y="43.457237"
+       x="56.002739"
+       style="font-size:4.5861px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="43.457237"
+         x="56.002739"
+         id="tspan1793"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1799"
+       y="-1.4720392"
+       x="139.79018"
+       style="font-size:4.5861px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="-1.4720392"
+         x="139.79018"
+         id="tspan1797"
+         sodipodi:role="line" /></text>
+    <text
+       style="font-size:4.58611px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';white-space:pre;shape-inside:url(#rect2265);fill:#deffff;"
+       id="text2263"
+       xml:space="preserve" />
+    <g
+       transform="matrix(2.0265385,0,0,2.0311529,28.487417,-3.3520355)"
+       id="g2513">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="opacity:1;fill:#000000;stroke:#000002;stroke-width:8.03952;stroke-linecap:square;stroke-opacity:0;paint-order:markers stroke fill"
+         id="rect10"
+         width="212.91028"
+         height="109.76814"
+         x="-13.547563"
+         y="1.7990234" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000002;stroke-width:5.38048;stroke-linecap:square;stroke-opacity:0;paint-order:markers stroke fill"
+         id="rect847"
+         width="12.385457"
+         height="1.4291856"
+         x="51.198154"
+         y="25.715014" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         transform="matrix(1.0271549,0,0,0.99927691,-0.68695259,-6.9885378)"
+         id="g2546">
+        <text
+           transform="matrix(0.84843758,0,0,0.84843758,-33.044432,29.641122)"
+           style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect843);fill:#ffffff;fill-opacity:0.24714679;filter:url(#filter1759);"
+           id="text841"
+           xml:space="preserve"><tspan
+             x="26.380859"
+             y="40.880804"><tspan
+               style="fill:#ffffff;fill-opacity:0.247147">REAL </tspan></tspan></text>
+        <g
+           transform="matrix(1.0544461,0,0,1.1555568,35.682198,-5.3988253)"
+           id="g1535">
+          <text
+             xml:space="preserve"
+             id="text849"
+             style="font-size:25.4px;line-height:0;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect851);fill:#ffccff;filter:url(#filter1671);"
+             transform="matrix(0.42548942,0,0,0.43994645,78.739721,16.572771)"><tspan
+               x="101.81836"
+               y="41.748334"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.05;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:-1.51077px;fill:#ffffff;fill-opacity:1">MINI</tspan></tspan></text>
+          <g
+             aria-label="MAXIMALISM"
+             transform="matrix(0.46403176,0,0,0.46403176,48.066885,45.052853)"
+             id="text867"
+             style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect869);fill:#ffffff;fill-opacity:0.316787;filter:url(#filter1667)">
+            <g
+               id="g1075"
+               style="fill:#ffffff;fill-opacity:0.316787">
+              <path
+                 id="path1033"
+                 style="fill:#ffffff;fill-opacity:0.316787"
+                 d="m 162.59927,15.431781 q 1.01699,0 4.06797,0 0,0 0,18.281055 -1.36426,0 -4.06797,0 0,-5.97793 0,-18.281055 z m 5.08496,6.176367 q 0,-0.09922 2.03398,1.934766 2.03399,-2.033984 2.03399,-1.934766 0,12.104688 0,12.104688 0,0 -4.06797,0 0,-12.104688 0,-12.104688 z m 5.08496,-6.176367 q 0,0 4.04316,0 0,6.250781 -0.0248,18.281055 -1.51309,0 -4.01836,0 0,-7.118946 0,-18.281055 z m -5.08496,4.985742 q 0.49609,0.545703 2.03398,2.108399 0.4961,-0.496094 2.03399,-2.00918 0,-1.289844 0,-5.084961 -1.017,0 -4.06797,0 0,1.240235 0,4.985742 z" />
+              <path
+                 id="path1035"
+                 style="fill:#ffffff;fill-opacity:0.316787"
+                 d="m 195.06925,33.712836 q -15.72617,0 -15.72617,0 0,0 1.71152,-4.067969 0.5457,0 2.30684,0.04961 9.87226,-0.04961 9.87226,-0.04961 0,0 1.83555,4.067969 z m -13.7418,-5.084961 q 1.43867,-3.299024 5.8291,-13.196094 1.43867,3.299024 5.8291,13.196094 -2.92695,0 -11.6582,0 z" />
+              <path
+                 id="path1037"
+                 style="fill:#ffffff;fill-opacity:0.316787"
+                 d="m 204.47668,19.49975 q 7.26778,-4.067969 7.29258,-4.067969 0.0496,18.281055 0.0496,18.281055 -0.24805,0 -7.34219,-4.067969 -7.11894,4.067969 -7.11894,4.067969 0,0 0,-18.355469 7.11894,4.142383 7.11894,4.142383 z" />
+            </g>
+            <text
+               xml:space="preserve"
+               id="text1054"
+               style="font-size:7.60245px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect1056);fill:#ffffff;fill-opacity:0.316787;" />
+          </g>
+          <text
+             xml:space="preserve"
+             id="text1083"
+             style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect1085);fill:#ffffff;fill-opacity:1;filter:url(#filter1663);"
+             transform="matrix(0.63026921,0,0,0.63026921,56.723264,17.833304)"><tspan
+               x="105.48438"
+               y="49.678959"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DUDE;-inkscape-font-specification:DUDE;fill:#ffffff;fill-opacity:0.387797">O</tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;fill-opacity:1">R</tspan></tspan></text>
+        </g>
+        <text
+           y="0"
+           x="1835.0511"
+           transform="matrix(0.09845101,0,0,0.09669306,1.8523769,65.165828)"
+           style="font-size:25.4px;line-height:1.35;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect1119);fill:#ffffff;fill-opacity:0.561378;filter:url(#filter1521);"
+           id="text1117"
+           xml:space="preserve"><tspan
+             x="-131.13867"
+             y="35.365833"><tspan
+               dx="0 0 0 0 0 3.9564152 0 0 0 0 0 3.9564152 0 0 0 3.9564152 0 0 0 0 0 3.9564152 0 0 3.9564152 0 0 0 0 0 3.9564152 0 0 0 3.9564457"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">Якщо хочеш щоб пішов я, хочеш щоб змовк
+</tspan></tspan><tspan
+             x="-131.13867"
+             y="69.749767"><tspan
+               dx="0 0 0 0 0 0 8.3078709 0 0 0 8.3078709 0 0 0 0 8.3078709 0 0 0 8.3078861 0 0 8.3078556 0 0 0 8.3078556 0 0 0 0 0 0 0 0 0 8.3078251"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">Давай іще один смс Що був найкращим в </tspan></tspan><tspan
+             x="-131.13867"
+             y="104.1337"><tspan
+               dx="0 0 0 0 0 9.1731434 0 9.1731434 0 0 0 9.173151 0 0 0 0 9.1731663 0 0 9.173151 0 0 0 9.173151 0 0 0 0 0 9.173151 0 0 9.1731815"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">парі з нас двох Не пив вина, не грав </tspan></tspan><tspan
+             x="-131.13867"
+             y="138.51764"><tspan
+               dx="0 0 0 0 0 0 0 0 0 12.659327 0 0 12.659327 0 0 12.659327 0 0 0 0 0 12.659296 0 12.659296 0 0 0 0 0 12.659327 0 0 0 0 12.659327"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">стюардес Що не чекав у спину ножа З </tspan></tspan><tspan
+             x="-131.13867"
+             y="172.90157"><tspan
+               dx="0 0 0 0 0 0 7.2693806 0 0 7.2693882 0 0 7.2693882 0 0 0 7.2693882 0 0 0 0 7.2693729 0 0 0 7.2693729 0 0 0 0 0 0 7.2693729 0 0 7.2693729"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">усюди та не від тебе жах Наплюй на до </tspan></tspan><tspan
+             x="-131.13867"
+             y="207.28551"><tspan
+               dx="0 0 0 0 0 5.3656254 0 0 0 0 5.3656254 0 0 5.3656254 0 0 5.3656101 0 0 0 5.3656254 0 0 0 0 5.3656254 0 0 0 0 0 0 5.3656254 0 5.3656254"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">себе жаль чи ні Цей біль поживе в мені </tspan></tspan><tspan
+             x="-131.13867"
+             y="241.66945"><tspan
+               dx="0 0 0 0 0 0 2.0774708 0 2.0774784 0 0 0 0 0 0 2.0774784 0 0 0 0 0 0 0 0 0 2.0774784 0 0 0 0 0 0 2.0774784 0 0 0 0 0 0 2.0774784"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">немов у камені Віденські Шіллє, Клімдт і </tspan></tspan><tspan
+             x="-131.13867"
+             y="276.05339"><tspan
+               dx="0 0 0 0 0 0 14.677034 0 0 14.677027 0 0 0 0 0 0 0 0 0 14.677057 0 0 0 14.677027 0 0 0 0 0 0 0 0 0 14.677027"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">Ліндт Не розіб'ють наш триклятий лід
+</tspan></tspan><tspan
+             x="-131.13867"
+             y="310.43734"><tspan
+               dx="0 0 2.0774765 0 0 0 0 0 2.0774784 0 0 2.0774632 0 0 0 0 0 0 0 0 0 2.0774784 0 0 0 0 2.0774479 0 0 0 0 0 0 0 2.0774784"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">Я думав що віднайшов Свій золотий грааль
+</tspan></tspan><tspan
+             x="-131.13867"
+             y="344.82128"><tspan
+               dx="0 0 0 0 0 0 0 22.153818 0 0 0 0 0 0 0 0 0 0 22.153833 0 22.153803 0 0 0 0 0 0 0 22.153833"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">Танули пристрасті В готелів номерах
+</tspan></tspan><tspan
+             x="-131.13867"
+             y="379.20522"><tspan
+               dx="0 0 0 0 0 0 0 0 9.692522 0 0 0 0 0 0 9.6925144 0 0 0 9.6925297 0 0 0 0 0 9.6925297 0 0 0 0 0 9.6924992 0 0 9.6925297"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">Ставало звично так Тепер скажи це Все
+</tspan></tspan><tspan
+             x="-131.13867"
+             y="413.58916"><tspan
+               dx="0 0 0 3.0772152 0 0 0 0 0 0 3.0772038 0 0 3.077219 0 3.077219 0 0 0 0 3.0772343 0 3.0772038 0 0 3.0772343 0 0 0 0 0 0 3.0772038 0 0 3.0772343"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">Що справа не в мені І ми зайшли за край
+</tspan></tspan><tspan
+             x="-131.13867"
+             y="447.9731"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.561378">Відпустить - набирай бо ми загубили рай.</tspan></tspan></text>
+        <text
+           y="0"
+           x="459.26791"
+           transform="matrix(0.14927613,0,0,0.14927613,70.246499,82.52344)"
+           style="font-size:25.4px;line-height:1.25;font-family:PAS;-inkscape-font-specification:'PAS, Normal';white-space:pre;shape-inside:url(#rect1125);fill:#ffffff;fill-opacity:1;filter:url(#filter1457);"
+           id="text1123"
+           xml:space="preserve"><tspan
+             x="-121.06055"
+             y="-85.842525"><tspan
+               dx="0 0 0 3.1378326 0 0 0 3.1378326 0 0 3.1378326 0 0 0 0 3.1378326 0 0 3.1378326 0 3.1378326 0 0 0 0 0 0 3.1378174 0 0 0 0 0 0 0 0 3.1378479 0 0 0 3.1378784 0 0 0 0 0 3.1378174 0 0 0 0 0 3.1378174 0 0 0 3.1378174 0 0 0 0 0 0 3.1378174"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat weight=280';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">to die or live is a modern metaphor and quote about the modern world, </tspan></tspan><tspan
+             x="-121.06055"
+             y="-53.936946"><tspan
+               dx="0 0 0 0 0 0 1.8487549 0 0 1.8487549 0 0 0 0 0 1.8487549 0 0 0 0 0 0 1.8487549 0 0 1.8487549 0 0 1.8487549 0 0 0 0 1.8487854 0 0 1.8487549 0 0 0 0 1.8487549 0 0 0 0 1.8487549 0 0 0 1.8487549 0 0 1.8487549 0 0 0 0 0 1.8487549 0 0 1.8487549 0 0 1.8487549 0 0 0 0 1.8487549"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat weight=280';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">which is quite cruel, so we need to live 100% out of 100%, so we have time </tspan></tspan><tspan
+             x="-121.06055"
+             y="-22.031368"><tspan
+               dx="0 0 0 2.7963943 0 0 0 0 0 0 2.7963943 0 0 0 0 2.7963867 0 0 0 0 2.7963867 0 0 2.7963867 0 0 0 2.7963867 0 0 0 0 0 0 0 0 2.7963867 0 0 2.7963867 0 0 0 2.7963867 0 0 0 2.7964172 0 0 0 2.7964478 0 0 0 0 2.7963867 0 0 0 2.7963867 0 0 2.7963867 0 0 0 0 2.7964478 0 0 0 0 2.7963867 0 0 0 0 0 2.7963867"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat weight=280';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">to either just live to the fullest, or die ... our life can be like art. house and </tspan></tspan><tspan
+             x="-121.06055"
+             y="9.874209"><tspan
+               dx="0 0 0 0 0 0 0 7.0637436 0 0 0 0 7.0637512 0 0 0 0 0 0 0 0 7.0637512 0 0 0 0 7.0637512 0 0 0 0 0 0 0 0 7.0637512 0 0 7.0637512 0 0 0 0 0 0 7.0637817 0 0 7.0637817 0 0 0 0 0 0 0 7.0637207 0 0 0 0 7.0637817 0 0 0 0 0 0 7.0637207"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat weight=280';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">brutal love thriller with elements of drama, of course, many things by </tspan></tspan><tspan
+             x="-121.06055"
+             y="41.779786"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 3.9863663 0 0 0 3.9863586 0 0 0 3.9863586 0 0 0 0 0 0 3.9863586 0 0 0 3.9863586 0 0 0 0 0 3.9863892 0 0 0 0 3.9863892 0 0 0 0 3.9863281 0 3.9863892 0 0 0 0 0 3.9863281 0 0 0 0 0 0 0 3.9863281 0 0 0 0 3.9863892"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat weight=280';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">accident, but not always the movie ends with a happy ending, then the </tspan></tspan><tspan
+             x="-121.06055"
+             y="73.68536"><tspan
+               dx="0 0 0 0 0 7.392971 0 0 0 0 0 0 7.3929672 0 0 0 0 0 7.3929596 0 0 0 7.3929749 0 0 7.3929749 0 0 0 0 0 0 0 0 0 0 0 0 7.3929749 0 0 0 0 0 0 0 7.3930054 0 0 0 0 0 7.3930054 0 0 0 0 0 7.3929443 0 0 7.3929443 0 0 7.3929443"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat weight=280';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">film itself would not be interesting, because there would be no main </tspan></tspan><tspan
+             x="-121.06055"
+             y="105.59094"><tspan
+               dx="0 0 0 0 0 0 0 0 0 2.8108673 0 0 0 0 2.8108673 0 0 0 0 0 0 2.8108826 0 0 0 0 0 0 0 0 0 2.8108826 0 2.8108826 0 0 0 0 2.8108826 0 0 0 0 2.8109131 0 0 0 0 2.8109131 0 0 0 0 0 2.8108521 0 0 0 0 2.8108521 0 0 0 2.8108521"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat weight=280';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">intrigue that evokes emotions. i have said many times that our emotions </tspan></tspan><tspan
+             x="-121.06055"
+             y="137.49652"><tspan
+               dx="0 0 0 0 1.2415276 0 0 0 0 0 1.2415237 0 0 0 0 0 0 0 0 0 1.2415161 0 0 0 0 0 0 0 0 0 0 0 0 1.2415161 0 0 0 1.2415466 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2415161 0 0 1.2415771 0 1.2415771 0 0 1.2415161 0 0 0 0 0 1.2415161"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat weight=280';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">are still something supernatural and unpredictable, so i am still convinced </tspan></tspan><tspan
+             x="-121.06055"
+             y="169.40209"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat weight=280';text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">that our sincere emotions can not just take and buy end of this...</tspan></tspan></text>
+        <text
+           y="0"
+           x="0"
+           transform="matrix(0.38393683,0,0,0.38393683,147.21263,43.259771)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;white-space:pre;shape-inside:url(#rect1769);fill:#ffffff;fill-opacity:0.808348;filter:url(#filter1847)"
+           id="text1767"
+           xml:space="preserve"><tspan
+             x="-64.517578"
+             y="-42.61527"><tspan
+               dx="0 0 0 0 0 0 2.2326074 0 0 0 0 0 2.2326074 0 0 0 0 2.2326074"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Часом буває щось тягне</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="2.2326031 0 0 0 2.2326112"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">мов магнітом</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">,
+</tspan></tspan><tspan
+             x="-64.517578"
+             y="-36.698114"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Туди</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="0.8050431 0 0 0.80504358 0 0 0 0 0 0 0.80504549 0 0 0 0 0 0 0.80504358 0 0 0 0 0 0 0.80504358 0 0 0.80504358"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">де навіть місяць ніколи не світить</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">...
+</tspan></tspan><tspan
+             x="-64.517578"
+             y="-30.780958"><tspan
+               dx="0 0 0 0 0 0 0 1.8709568 0 0 1.8709568 0 0 0 0 0 1.8709549"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Тільки ти знаєш ту</tspan><tspan
+               dx="0 1.8709549"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348"> п</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">'</tspan><tspan
+               dx="0 0 0 0 1.8709587 0 0 0 0 0 0 0 1.8709587"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">яту сторону світу</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">,
+</tspan></tspan><tspan
+             x="-64.517578"
+             y="-24.863801"><tspan
+               dx="0 0 0 1.1673301 0 0 1.1673301 0 1.1673321 0 0 0 0 0 1.1673301"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Де ми з тобою були</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="1.1673335 0 1.1673301 0 0 0 0 0 1.167334"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">а потім розтанули</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">...
+</tspan></tspan><tspan
+             x="-64.517578"
+             y="-18.946645"><tspan
+               dx="0 0 0 0 0 2.1878209"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Жаль холодом</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">,</tspan><tspan
+               dx="0 0 0 2.187819 0 0 0 0 0 0 0 0 2.1878228 0 0 2.1878228 0 0 0 0 0 0 2.187819"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Не кришталь за столом 
+</tspan></tspan><tspan
+             x="-64.517578"
+             y="-13.029489"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">дзвенить</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">,</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">тремтить</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">...</tspan><tspan
+               dx="0 0 0 0 0 8.1388111"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Чуєш нутром</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="8.1388149"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">як </tspan></tspan><tspan
+             x="-64.517578"
+             y="-7.1123327"><tspan
+               dx="0 0 0 0 0 0 0 1.7201751 0 1.7201751 0 0 0 0 1.7201751"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">печаль у мені мовчить</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="1.7201747 0 0 0 0 0 1.7201751"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Трохи пекло</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="1.7201747"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">як </tspan></tspan><tspan
+             x="-64.517578"
+             y="-1.195176"><tspan
+               dx="0 0 0 0 0 0 0 0.56463659 0 0 0.56463659 0 0 0 0 0.56463468 0 0 0 0.56463468"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">ділили на двох усе тепло</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="0.5646342 0 0 0 0 0 0.56464231"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Ніжно цілуй</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="0.5646342"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">не </tspan></tspan><tspan
+             x="-64.517578"
+             y="4.7219807"><tspan
+               dx="0 0 0 0 0 0 0 0 1.6360534 0 0 0 1.6360554"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">зруйнуй моє доміно</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">...</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Приспів</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">: </tspan><tspan
+               dx="1.6360606 0 1.6360534 0 0 0 1.6360534"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">І від твого </tspan></tspan><tspan
+             x="-64.517578"
+             y="10.639137"><tspan
+               dx="0 0 0 0 0 0 0.63933504 0 0 0 0 0.63933599 0 0 0 0 0.63933408"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">форте було мені п</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">'</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">яно</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">... </tspan><tspan
+               dx="0.63933361 0 0.6393379 0 0 0 0 0 0 0 0.63933408"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Я гарячим воском </tspan></tspan><tspan
+             x="-64.517578"
+             y="16.556294"><tspan
+               dx="0 0 0 0 0.093740821 0 0 0 0 0.093740821"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">для тебе стала</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">... </tspan><tspan
+               dx="0.093740344 0 0 0.093737006"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Та любов</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="0.093732715 0 0 0.093740821"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">як пісня</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="0.093732715"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">завтра </tspan></tspan><tspan
+             x="-64.517578"
+             y="22.47345"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">будепізно</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">...</tspan><tspan
+               dx="0 0 0 0 0 0 0 0 1.1201195 0 0 1.1201175"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Холодно чи тепло</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="1.1201152 0 0 1.1201156 0 1.1201156"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">ми з тобою </tspan></tspan><tspan
+             x="-64.517578"
+             y="28.390607"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">різні</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">... </tspan><tspan
+               dx="0.8998946 0 0 0 0.89989126 0 0 0 0 0 0.89989126 0 0 0 0 0.89989507 0 0 0 0 0 0 0 0 0 0 0.89989507 0 0 0.89989507 0 0 0 0 0 0.89989507"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Від твоїх слів Виростають на вікні 
+</tspan></tspan><tspan
+             x="-64.517578"
+             y="34.307763"><tspan
+               dx="0 0 0 0 0 0 0 0 2.8174386"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">крижані квіти </tspan><tspan
+               dx="2.8174386"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">-</tspan><tspan
+               dx="0 0 0 0 0 2.8174386 0 0 0 0 2.8174348 0 0 2.8174348 0 0 0 0 0 2.8174424"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Якби мені та самій не
+</tspan></tspan><tspan
+             x="-64.517578"
+             y="40.224921"><tspan
+               dx="0 0.37944639"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348"> зледеніти</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">... </tspan><tspan
+               dx="0.37944591 0 0 0.37944829 0 0.37944829 0 0 0 0 0 0.37944448"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Що з тобою зимно </tspan><tspan
+               dx="0.37944829"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">- </tspan><tspan
+               dx="0.37943828 0 0 0 0 0.37944639 0 0 0 0.37944639"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">мені вже 
+</tspan></tspan><tspan
+             x="-64.517578"
+             y="46.142077"><tspan
+               dx="0 0 0 0 1.6484627"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">все одно</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="1.6484622 0 0 0 0 0 0 1.6484607 0 0 1.6484627"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Тільки не ламай</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">, </tspan><tspan
+               dx="1.6484584 0 0 1.6484588 0 0 0 0 0 0 0 1.6484588"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">не зруйнуй 
+</tspan></tspan><tspan
+             x="-64.517578"
+             y="52.059233"><tspan
+               dx="0 0 0 0 0.35718191"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">моє доміно</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">... </tspan><tspan
+               dx="0.35718143"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Приспів</tspan><tspan
+               dx="0 0 0.35718334"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">. (2) </tspan><tspan
+               dx="0.35718334 0 0 0 0 0 0 0 0.35718 0 0 0.35718"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">Холодно чи тепло
+</tspan></tspan><tspan
+             x="-64.517578"
+             y="57.97639"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348"> ми з тобою різні</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Norasi;-inkscape-font-specification:Norasi;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:0.808348">...</tspan></tspan></text>
+        <text
+           transform="matrix(6.374743,0,0,6.6684351,68.02921,-39.213104)"
+           style="font-size:4.58611px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';letter-spacing:-0.00616714px;white-space:pre;shape-inside:url(#rect1851);fill:#f6ffff;fill-opacity:0.698253;filter:url(#filter2261);"
+           id="text1849"
+           xml:space="preserve"><tspan
+             x="-12.466797"
+             y="10.967017"><tspan
+               style="fill:#f6ffff;fill-opacity:0.698253">die</tspan><tspan
+               dx="0.26299858"
+               style="letter-spacing:-0.269166px"> </tspan><tspan
+               dx="-0.26299885"
+               style="fill:#f6ffff;fill-opacity:0.698253">or</tspan><tspan
+               dx="0.26578018"
+               style="letter-spacing:-0.271947px"> </tspan><tspan
+               dx="-0.26577976"
+               style="fill:#f6ffff;fill-opacity:0.698253">live</tspan></tspan></text>
+        <text
+           transform="matrix(0.91357396,0,0,0.95148364,5.9115865,3.5366428)"
+           id="text2271"
+           y="54.797466"
+           x="50.294315"
+           style="font-size:7.94918px;line-height:1.05;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';letter-spacing:1.95519px;fill:#f9ffff;fill-opacity:1;stroke-width:0.458611;filter:url(#filter2341)"
+           xml:space="preserve"><tspan
+             id="tspan2273"
+             style="line-height:1.05;letter-spacing:1.95519px;fill:#f9ffff;fill-opacity:1;stroke-width:0.458611"
+             y="54.797466"
+             x="50.294315"
+             sodipodi:role="line"><tspan
+   id="tspan2347"
+   style="letter-spacing:0px;fill:#f9ffff;fill-opacity:1">impossible life with</tspan> </tspan><tspan
+             id="tspan2277"
+             style="line-height:1.05;letter-spacing:1.95519px;fill:#f9ffff;fill-opacity:1;stroke-width:0.458611"
+             y="63.144104"
+             x="50.294315"
+             sodipodi:role="line">expected end</tspan></text>
+        <text
+           transform="matrix(1.1286312,0,0,1.1286312,-7.0662451,-14.946732)"
+           style="font-size:4.58611px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';white-space:pre;shape-inside:url(#rect2353);fill:#ffffff;fill-opacity:0.319067;filter:url(#filter2399);"
+           id="text2351"
+           xml:space="preserve"><tspan
+             x="153.51367"
+             y="108.99827"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DUDE;-inkscape-font-specification:DUDE;fill:#ffffff;fill-opacity:0.319067">    BY PAS</tspan></tspan></text>
+      </g>
+      <text
+         style="font-size:2.26045px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';white-space:pre;shape-inside:url(#rect2550);fill:#ffffff;fill-opacity:1;"
+         id="text2548"
+         xml:space="preserve" />
+      <text
+         style="font-size:2.26045px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';white-space:pre;shape-inside:url(#rect2556);"
+         id="text2554"
+         xml:space="preserve" />
+      <text
+         y="0"
+         x="0"
+         transform="matrix(0.5437576,0,0,0.60184956,132.47449,1.747551)"
+         style="font-size:3.22168px;line-height:1.1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:justify;white-space:pre;shape-inside:url(#rect2562);fill:#fefffe;fill-opacity:1;filter:url(#filter2612)"
+         id="text2560"
+         xml:space="preserve"><tspan
+           x="-13.632812"
+           y="4.3697898"><tspan
+             dx="0 0 0 0 0 1.6026521 0 0 0 0 0 0 0 1.6026516 0 0 0 0 1.6026516 0 0 0 0 0 0 1.6026535 0 0 1.6026497 0 0 0 1.6026535 0 0 0 0 0 1.6026497 0 0 0 1.6026497 0 1.6026497 0 0 0 0 1.6026497 0 0 0 0 1.6026573 0 0 0 0 0 0 0 0 0 1.6026497"
+             style="font-size:3.22168px;text-align:justify;text-anchor:start;fill:#fefffe;fill-opacity:1">Just sitting with Bogdan in his home. And u know like sometimes just </tspan></tspan><tspan
+           x="-13.632812"
+           y="7.9136378"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.58067125 0 0 0 0 0 0.58066934 0 0 0.58066934 0 0 0 0 0.58066934 0 0 0 0 0 0 0.58066934 0 0 0.58066934 0 0 0 0 0 0 0 0.58066934 0 0.58066934 0 0 0 0 0 0.58066934 0 0 0 0 0 0.58066934 0 0 0 0 0.58066934 0 0 0 0.58066934"
+             style="font-size:3.22168px;text-align:justify;text-anchor:start;fill:#fefffe;fill-opacity:1">procrastination makes me more strong or weaker? I don't know, yeah its song </tspan></tspan><tspan
+           x="-13.632812"
+           y="11.457486"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0.38193792 0 0 0 0.38193887 0 0 0 0 0 0 0 0 0 0 0 0 0 0.38193506 0 0 0 0.38193887 0 0 0 0.38193887 0 0.38193887 0 0 0 0 0.38193887 0 0 0 0 0 0 0.38193887 0 0 0 0.38193887 0 0 0.38193125 0 0 0 0 0 0 0 0 0 0 0 0 0 0.38193125 0 0 0 0.38193887"
+             style="font-size:3.22168px;text-align:justify;text-anchor:start;fill:#fefffe;fill-opacity:1">strangely, but unfortunately for me, I cant manage all my pathological, and this </tspan></tspan><tspan
+           x="-13.632812"
+           y="15.001334"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0.66795725 0 0 0 0.66795725 0 0 0 0 0 0 0 0 0 0 0 0 0 0.66795725 0 0 0 0.66795725 0 0 0 0 0.66795725 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.66795725 0 0 0 0 0 0 0 0 0 0 0 0 0 0.66795725 0 0 0 0.66795725 0 0 0 0 0 0.66796488"
+             style="font-size:3.22168px;text-align:justify;text-anchor:start;fill:#fefffe;fill-opacity:1">situation can procrastinate me. Does procrastination procrastinate me? Yeah. I </tspan></tspan><tspan
+           x="-13.632812"
+           y="18.545182"><tspan
+             dx="0 0 0 0 0 0 0.06769985 0 0 0 0 0.067699373 0 0 0 0.067699373 0 0 0 0.067699373 0 0 0 0 0 0 0 0 0.067699373 0 0 0 0.067699373 0 0 0 0 0 0 0 0.067699373 0 0 0 0 0 0 0 0 0 0.067699373 0 0 0.067699373 0 0 0 0.067699373 0 0 0 0 0 0 0.067699373 0 0 0 0.067699373 0 0 0 0 0 0 0 0 0 0 0 0 0.067699373 0 0 0.067699373 0 0.067699373"
+             style="font-size:3.22168px;text-align:justify;text-anchor:start;fill:#fefffe;fill-opacity:1">can't tell you all details, but Fucking situation in our world, the indifference of a lot </tspan></tspan><tspan
+           x="-13.632812"
+           y="22.08903"><tspan
+             dx="0 0 0 0.1860525 0 0 0 0 0 0 0.18605226 0 0 0.18605226 0 0 0 0.18605226 0 0 0 0 0 0 0.18605036 0 0 0 0 0 0.18605417 0 0 0 0.18605417 0 0 0 0 0.18605417 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.18605417 0 0 0.18604654 0 0 0 0 0 0 0 0 0 0.18604654 0 0 0 0.18605417 0 0 0 0 0.18605417"
+             style="font-size:3.22168px;text-align:justify;text-anchor:start;fill:#fefffe;fill-opacity:1">of people in the entire world can give procrastination to everyone. But just words </tspan></tspan><tspan
+           x="-13.632812"
+           y="25.632878"><tspan
+             dx="0 0 0 0 0 0 0.58451074 0 0 0 0 0.58451074 0 0 0 0 0 0 0 0.58451074 0 0 0.58451074 0 0 0 0.58451074 0 0 0 0 0 0 0.58451074 0 0.58451074 0 0 0 0.58451074 0 0 0.58451456 0 0 0 0 0 0 0 0 0 0 0.58450693 0 0.58451456 0 0 0 0.58450693 0 0 0 0 0.58451456 0 0 0.58450693 0 0 0 0 0.58451456"
+             style="font-size:3.22168px;text-align:justify;text-anchor:start;fill:#fefffe;fill-opacity:1">don't give benefit to the world, u can do something, I say this so much time? </tspan></tspan><tspan
+           style="visibility:hidden"
+           x="-13.632812"
+           y="32.277993"><tspan
+             dx="0 1.7870256 1.8562413 1.8625338 2.1582737 0.61035776 44.990257 3.5048332 2.126812 1.7681503 1.7933159 44.990257 2.4162598 1.9065781 1.7681503 1.8625336 2.1456909 1.5164566 1.7492676 1.7933197 44.990257 1.7870178 1.8562469 1.8625336 2.1582794 0.61035156"
+             style="font-size:3.22168px;text-align:justify;text-anchor:start;fill:#fefffe;fill-opacity:1">Yeah. Why? Because? Yeah. </tspan></tspan></text>
+      <text
+         style="font-size:2.26045px;line-height:0.95;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';white-space:pre;shape-inside:url(#rect2616);"
+         id="text2614"
+         xml:space="preserve" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         transform="matrix(2.2150559,0,0,2.1858035,18.245309,25.759721)"
+         style="font-size:2.26045px;line-height:0.95;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';white-space:pre;shape-inside:url(#rect2622);fill:#ffffff;fill-opacity:0.716967;filter:url(#filter2664);"
+         id="text2620"
+         xml:space="preserve"><tspan
+           x="-13.529297"
+           y="3.8791223"><tspan
+             style="fill:#ffffff;fill-opacity:0.716967">Motivation is the most important thing to have success</tspan></tspan></text>
+      <text
+         y="0"
+         x="0"
+         transform="matrix(1.0607421,0,0,1.0467338,-28.730444,26.105468)"
+         style="font-size:2.26045px;line-height:0.95;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:justify;white-space:pre;shape-inside:url(#rect2818);fill:#ffffff;fill-opacity:1;filter:url(#filter2852)"
+         id="text2816"
+         xml:space="preserve"><tspan
+           x="16.074219"
+           y="10.9592"><tspan
+             dx="0 0 0 0 0 3.3556654 0 0 0 0 0 0 0 0 0 0 3.3556669 0 0 3.3556669 0 0 0 3.355665 0 0 3.355665 0 0 0 3.355665 0 0 0 0 3.3556612 0 0 0 0 0 0 0 0 0 3.3556688 0 0 0 0 0 0 3.3556688 0 0 3.3556688 0 0 0 0 3.3556612 0 0 0 0 0 0 0 0 3.3556688 0 0 0 0 3.3556688"
+             style="text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">Time management is one of the most important things to have success. Why? 
+</tspan></tspan><tspan
+           x="16.074219"
+           y="13.106628"><tspan
+             style="text-align:justify;text-anchor:start;fill:#ffffff;fill-opacity:1">Maybe because TM gives you more opportunities    to    have     more     time.  sh bbbsbbs     cssvbvs   vvc    bcbcb  bc</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
